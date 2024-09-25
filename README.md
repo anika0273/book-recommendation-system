@@ -65,19 +65,3 @@ To further enhance the recommendation system, the following approaches can be co
 
 - **Hyperparameter Tuning**: Fine-tuning model parameters to improve performance.
 - **Hybrid Recommendation Systems**: Combining different recommendation techniques to create a more complex and accurate model.
-
-## Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd Book-Recommendation-System
-   ```
-
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Project**:
-   - Execute the main script to start the recommendation process.
